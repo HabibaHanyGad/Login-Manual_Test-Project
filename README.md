@@ -1,6 +1,5 @@
 # Login-Manual_Test-Project
-# This repository contains all Test Cases and Bug Reports for the Login functionality of the application.  
-It is organized to make the testing process easy to follow and understand.
+# This repository contains all Test Cases and Bug Reports for the Login functionality of the application, it is organized to make the testing process easy to follow and understand.
 
 ## Folder Structure
 
